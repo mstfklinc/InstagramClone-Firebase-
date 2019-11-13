@@ -19,15 +19,17 @@
 	<key>STORAGE_BUCKET</key>
 	<string>instagramclonefirebase-1b104.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>to choose a photo</string>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:394509179234:ios:748fd25a85a7ea474fb43b</string>
 	<key>DATABASE_URL</key>
